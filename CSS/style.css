@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    display: flex;
+    border-bottom: 1px solid;
+    color: rgb(0, 0, 0);
+}
+
+header {
+    padding: 25px 50px;
+}
+
+.header-go {
+    font-family: manrope;
+    font-weight: 1px;
+    font-size: 25px;
+    line-height: 40.98px;
+    font-weight: bolder;
+}
+
+.header-green {
+    font-family: sans-serif;
+    font-size: 25px;
+    line-height: 35.16px;
+    font-weight: bolder;
+    color: rgb(94, 145, 94);
+}
+
+.pagenavigation {
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-left: 430px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    font-weight: 600;
+    word-spacing: 25px;
+}
+
+.secondpage {
+    width: 1079px;
+    height: 950px;
+    padding-top: 50px;
+}
+
+.list {
+    list-style: none;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.plant-img {
+    position: absolute;
+    top: 5px;
+    left: 150px;
+    Width: 400px;
+    Height: 470px;
+}
+
+.main-section {
+    padding-top: 10px;
+    position: absolute;
+    left: 580px;
+    font-family: sans-serif;
+}
+
+.paragraph {
+    padding-top: 15px;
+}
+
+button {
+    background-color: #01601B;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    width: 152px;
+    height: 40px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.button2 {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+
+.plant {
+    width: 280px;
+    height: 250px;
+}
+
+.plantselection {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 30px;
+    width: 1000px;
+    height: 700px;
+}
+
+.chooseplant {
+    padding-top: 450px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    font-size: 25px;
+    font-family: Roboto;
+    text-transform: uppercase;
+    font-weight: 250;
+}
+
+.seemore-link {
+    padding-left: 900px;
+    font-family: Roboto;
+    color: #01601B;
+    text-decoration: underline;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.footer {
+    background-color: #255338;
+    color: white;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+ul{
+    
+    list-style: none;
+    font-family: Roboto;
+    font-size: 10px;
+    line-height: 17px;
+    position: relative;
+}
+
+.footer-col {
+    width: 25%;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+}
+
+.footer-col h4 {
+    padding-bottom: 12px;
+    font-size: 12px;
+    font-family: Roboto;
+}
+
+.gogreen-header {
+    padding-left: 50px;
+    padding-top: 30px;
+    font-family: manrope;
+}
+
+
+.list2 {
+    display: flex;
+    display: inline-flex;
+    margin-left: 850px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.list2 li {
+   margin-right: 10px;
+}
+    
+
+
+
+
+
+
+
+
+
+
